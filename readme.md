@@ -1,4 +1,4 @@
-## Não venho muito aqui, até porque não é o youtube.
+## “I think if you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what’s next.” -Steve Jobs
  <div>
   <a href="https://github.com/bielcarreiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielcarreiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
