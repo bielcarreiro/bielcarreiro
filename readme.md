@@ -1,4 +1,4 @@
-## Olá, me chamo Gabriel Carreiro, e não confundam-me, sou único. #PeaceandLove guys
+## Não venho muito aqui, até porque não é o instagram.
  <div>
   <a href="https://github.com/bielcarreiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielcarreiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
