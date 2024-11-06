@@ -10,6 +10,9 @@
 <h3 align="center">🛠 Language and tools</h3>
 
 ###
+
+<img align='right' height='87' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhkMzg2NGxsYzlrbGphNTY4amcwbW5jdndlb3Myc2szc3lzMmxjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SvGFA2WF9IP0WjmzvE/giphy.gif'/>
+
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
